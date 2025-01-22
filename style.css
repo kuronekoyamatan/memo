@@ -28,24 +28,29 @@ button {
 
 span {
   font-size: 14px;
-  margin-right:auto;
-  opacity:0;
+  margin-right: auto;
+  opacity: 0;
   transition: opacity 300ms;
-
 }
 
 .container {
   display: flex;
   align-items: center;
-  gap:4px;
-  margin-top:8px;
+  gap: 4px;
+  margin-top: 8px;
 }
 
-.appear{
-  opacity:1;
+.appear {
+  opacity: 1;
 }
 
-strong{
+strong {
   font-size: 12px;
   text-align: center;
+}
+
+p {
+  font-size: 9px;
+  text-align: center;
+  margin: 20px;
 }
